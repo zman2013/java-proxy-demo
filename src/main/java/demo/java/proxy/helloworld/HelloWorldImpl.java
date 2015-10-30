@@ -1,4 +1,4 @@
-package demo.java.proxy;
+package demo.java.proxy.helloworld;
 
 public class HelloWorldImpl implements HelloWorld {
 
